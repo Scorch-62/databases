@@ -2,7 +2,7 @@
 name = "courseswork5-upit"
 version = "0.1.0"
 description = ""
-authors = ["Aleksandr <zemacohoznik@gmail.com>"]
+authors = ["Sergey <cezar6258@gmail.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
